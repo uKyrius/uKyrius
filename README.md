@@ -19,7 +19,6 @@ Tenho interesses em Cyber Segurança e Programação em Python. (pt)
 <img src="https://giffiles.alphacoders.com/119/119813.gif" width="19">
 <img src="https://image.flaticon.com/icons/png/128/2001/2001770.png" width="28">
 
-[![uKyrius's GitHub stats](https://github-readme-stats.vercel.app/api?username=uKyrius)](https://github.com/anuraghazra/github-readme-stats) <img src="https://giffiles.alphacoders.com/120/120085.gif" width="450">
+[![uKyrius's GitHub stats](https://github-readme-stats.vercel.app/api?username=uKyrius)](https://github.com/anuraghazra/github-readme-stats) 
 
-
-
+<button name="button"></button>
