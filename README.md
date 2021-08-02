@@ -14,7 +14,7 @@ I have interests in Cyber Security and Python Programming.
 Meu nome é Lucas, tenho 18 anos e atualmente estou cursando Segurança da informação!
 Tenho interesses em Cyber Segurança e Programação em Python. 
 - - - -
-## Interesses | Interests
+## Interests | Interesses
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 <img src="https://giffiles.alphacoders.com/119/119813.gif" width="19">
 <img src="https://image.flaticon.com/icons/png/128/2001/2001770.png" width="28">
