@@ -8,10 +8,10 @@
 About me | Sobre mim (en/pt)
 ↓
 - Welcome to my profile,
-My name is Lucas, I am 18 years old and i am currently studying Information Security!
+My name is Lucas, I am 19 years old and i am currently studying Information Security!
 I have interests in Cyber Security and Python Programming. 
 - Bem vindo ao meu perfil,
-Meu nome é Lucas, tenho 18 anos e atualmente estou cursando Segurança da informação!
+Meu nome é Lucas, tenho 19 anos e atualmente estou cursando Segurança da informação!
 Tenho interesses em Cyber Segurança e Programação em Python. 
 - - - -
 ## Interests | Interesses
