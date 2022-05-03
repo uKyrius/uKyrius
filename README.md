@@ -17,7 +17,7 @@ Tenho interesses em Cyber Segurança e Programação em Python.
 ## Interests | Interesses
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 <img src="https://giffiles.alphacoders.com/119/119813.gif" width="19">
-<img src="https://image.flaticon.com/icons/png/128/2001/2001770.png" width="28">
+<img src="https://cdn-icons-png.flaticon.com/512/1691/1691685.png" width="28">
 
 [![uKyrius's GitHub stats](https://github-readme-stats.vercel.app/api?username=uKyrius)](https://github.com/anuraghazra/github-readme-stats) 
 
